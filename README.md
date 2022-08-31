@@ -3,6 +3,6 @@
 [Data_Hp](https://data-hpku.herokuapp.com/)
 ## Aplikasi web Perpustakaan ini dibuat untuk menyelesaikan submission dari Dicoding.
 *Mempunyai fitur:*
---Menyimpan data di Local Storage
---Menghapus data di Local Storage
---Memindah data
+-Menyimpan data di Local Storage
+-Menghapus data di Local Storage
+-Memindah data
